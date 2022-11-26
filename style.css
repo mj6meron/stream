@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 34, 0);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe{
+    border: 3px white solid;
+    border-radius: 12px;
+}
+button{
+    transform: scale(1.5);
+    margin: 2%;
+    padding: 0.4%;
+    border: 3px rgba(252, 255, 59, 0.789) solid;
+    border-radius: 6px;
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+h1{
+    margin: 2%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
